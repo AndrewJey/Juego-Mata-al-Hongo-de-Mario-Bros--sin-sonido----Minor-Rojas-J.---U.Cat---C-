@@ -1,0 +1,20 @@
+c:\users\beep\documents\visual studio 2012\Projects\Juego\Juego\bin\Debug\Juego.exe.config
+c:\users\beep\documents\visual studio 2012\Projects\Juego\Juego\bin\Debug\Juego.exe
+c:\users\beep\documents\visual studio 2012\Projects\Juego\Juego\bin\Debug\Juego.pdb
+c:\users\beep\documents\visual studio 2012\Projects\Juego\Juego\obj\Debug\Juego.Form1.resources
+c:\users\beep\documents\visual studio 2012\Projects\Juego\Juego\obj\Debug\Juego.Properties.Resources.resources
+c:\users\beep\documents\visual studio 2012\Projects\Juego\Juego\obj\Debug\Juego.csproj.GenerateResource.Cache
+c:\users\beep\documents\visual studio 2012\Projects\Juego\Juego\obj\Debug\Juego.exe
+c:\users\beep\documents\visual studio 2012\Projects\Juego\Juego\obj\Debug\Juego.pdb
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\bin\Debug\Juego.exe.config
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\obj\Debug\Juego.exe
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\obj\Debug\Juego.pdb
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\bin\Debug\Juego.exe
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\bin\Debug\Juego.pdb
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\obj\Debug\Juego.Form1.resources
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\obj\Debug\Juego.csproj.GenerateResource.Cache
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\obj\Debug\Juego.frmGestor_memoria.resources
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\obj\Debug\Juego.frmLogin.resources
+C:\Users\Minor\Documents\Universidad\Sistemas Operativos\Proyecto\Juego\Juego\obj\Debug\Juego.frmNuevo_Jugador.resources
