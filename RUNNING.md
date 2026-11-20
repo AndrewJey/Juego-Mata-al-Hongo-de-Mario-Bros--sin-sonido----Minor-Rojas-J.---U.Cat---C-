@@ -67,3 +67,11 @@ Alcance pendiente:
 - El registro de jugadores de esta variante continúa siendo un prototipo sin servicio de cuentas ni persistencia de contraseñas. La otra variante conserva sus requisitos de base de datos.
 
 <!-- build-repairs-20261115:end -->
+
+<!-- improvements-20261119:start -->
+## Mejoras y verificación — 2026-11-19 (Consultas SQL parametrizadas, respaldo local sin SQL Express y jugabilidad fluida)
+
+- Eliminada inyección SQL y credenciales/servidor fijo `MINOR\SQLEXPRESS` mediante `ScoreRepository` con `SqlCommand` parametrizado (`MARIO_HONGO_CONNECTION_STRING`), hash SHA-256 y respaldo local automático (`MARIO_HONGO_DATA_DIR`).
+- Corregido el operador `||` en login, la caída al faltar `Juego.wav`, la fuga de `PerformanceCounter` y el acceso multi-hilo inseguro usando temporizadores WinForms con `DoubleBuffered` y límites dinámicos del área de juego.
+- Validación: compilación MSBuild de ambos proyectos (`Juego.csproj`) y 14 aserciones automatizadas de autenticación, anti-SQLi, récords y `GameSession`.
+<!-- improvements-20261119:end -->
